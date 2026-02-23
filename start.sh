@@ -3,4 +3,3 @@
 python main.py &
 
 # Roda o carteiro em primeiro plano
-python carteiro.py
